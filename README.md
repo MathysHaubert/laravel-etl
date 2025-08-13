@@ -1,6 +1,6 @@
 # Laravel ETL Package – Redesign ETL
 
-## :us: Introduction
+## Introduction
 
 Redesign ETL is a Laravel package for orchestrating ETL (Extract – Transform – Load) migrations from a "legacy" database to your new one.
 It provides:
