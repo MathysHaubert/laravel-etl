@@ -58,8 +58,6 @@ In `config/redesign.php`, map what you need:
     ]
 ```
 
-f
-
 ## Usage Tutorial
 
 Create a Seeder
